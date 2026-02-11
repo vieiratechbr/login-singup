@@ -46,30 +46,4 @@ This project focuses exclusively on the **front-end experience**. No back-end, d
 ├── login.html
 └── README.md
 
-🎯 Project Goals
 
-This project was created to:
-
-Practice UI/UX concepts for authentication screens
-
-Improve CSS animations and transitions
-
-Work with JavaScript DOM manipulation
-
-Build reusable and realistic front-end components
-
-Strengthen a front-end developer portfolio
-
-⚠️ Disclaimer
-
-This project is for educational and portfolio purposes only.
-It does not include real authentication, data validation, or back-end integration.
-
-👤 Author
-
-Nathan Moura Vieira
-Front-End Developer
-
-GitHub: https://github.com/vieiratechbr
-
-Instagram: https://www.instagram.com/vieiratech.br/
