@@ -1,41 +1,41 @@
 # Login & Sign Up UI 🔐
 
-This project is a **responsive Login and Sign Up interface**, developed for **front-end practice and portfolio purposes**.
+Este projeto é uma **interface responsiva de Login e Cadastro**, desenvolvida para **prática de front-end e portfólio**.
 
-The main goal is to demonstrate skills in **HTML, CSS, and JavaScript**, focusing on **modern UI design**, **smooth form transitions**, and **user-friendly interactions** — without using any frameworks.
-
----
-
-## 🧠 About the Project
-
-The application simulates a common authentication interface, allowing users to switch between **Login** and **Register** forms with smooth animations and visual feedback.
-
-This project focuses exclusively on the **front-end experience**. No back-end, database, or real authentication logic is implemented.
+O principal objetivo é demonstrar habilidades em **HTML, CSS e JavaScript**, com foco em **design moderno de interface**, **transições suaves entre formulários** e **interações amigáveis ao usuário** — sem utilizar frameworks.
 
 ---
 
-## 🛠️ Technologies Used
+## 🧠 Sobre o Projeto
 
-- **HTML5** — semantic structure and form elements  
-- **CSS3** — modern styling, animations, and responsive layout  
-- **JavaScript (Vanilla)** — form switching logic and UI interactions  
-- **Boxicons** — icons used in input fields and buttons  
-- **Google Fonts (Poppins)** — typography  
+A aplicação simula uma interface comum de autenticação, permitindo que os usuários alternem entre os formulários de **Login** e **Cadastro** com animações suaves e feedback visual.
+
+Este projeto foca exclusivamente na **experiência de front-end**. Nenhum back-end, banco de dados ou lógica real de autenticação foi implementado.
 
 ---
 
-## ✨ Features
+## 🛠️ Tecnologias Utilizadas
 
-- Login and Sign Up forms in a single interface
-- Smooth animated transition between forms
-- Floating labels for input fields
-- Responsive design for mobile devices
-- Clean and modern UI
-- Fully built with pure HTML, CSS, and JavaScript
+- **HTML5** — estrutura semântica e elementos de formulário  
+- **CSS3** — estilização moderna, animações e layout responsivo  
+- **JavaScript (Vanilla)** — lógica de alternância de formulários e interações da interface  
+- **Boxicons** — ícones utilizados nos campos de entrada e botões  
+- **Google Fonts (Poppins)** — tipografia  
 
 ---
 
-## 📂 Project Structure
+## ✨ Funcionalidades
+
+- Formulários de Login e Cadastro em uma única interface
+- Transição animada suave entre os formulários
+- Labels flutuantes nos campos de input
+- Design responsivo para dispositivos móveis
+- Interface limpa e moderna
+- Totalmente desenvolvido com HTML, CSS e JavaScript puros
+
+---
+
+## 📂 Estrutura do Projeto
 
 ```text
 📦 login-signup-ui
@@ -45,5 +45,3 @@ This project focuses exclusively on the **front-end experience**. No back-end, d
 │   └── script.js
 ├── login.html
 └── README.md
-
-
